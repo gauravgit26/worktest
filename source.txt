@@ -3,3 +3,4 @@ tried updating from dummyuser
 testing read access
 testing protected branch
 changes by dev2
+added new line
